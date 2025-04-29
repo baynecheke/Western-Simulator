@@ -11,3 +11,8 @@ Game mechanics:
   Fully working inventory system,
   Item usage at certain times (in combat or outside),
   Turn based combat.
+Future updates:
+  working saloon and hotel,
+  new roles function,
+  more locations.
+  
